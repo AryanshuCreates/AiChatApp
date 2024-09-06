@@ -1,0 +1,9 @@
+- clone the repo
+- go into backend
+- install the requirements.txt
+- add a .env and add your chatgpt api key
+- run the backend
+- go into frontend
+- npm i
+- run the front end
+- you are good to go.
